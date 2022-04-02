@@ -1,0 +1,25 @@
+{
+  "dishes": [
+    {
+      "title": "Burger",
+      "price": "4.00",
+      "id": 1
+    },
+    {
+      "title": "Pizza",
+      "price": "5.98",
+      "id": 2
+    },
+    {
+      "title": "Pepsi",
+      "price": "1.00",
+      "id": 3
+    },
+    {
+      "title": "Crispe",
+      "price": "6.00",
+      "id": 4
+    }
+  ],
+  "orders": []
+}
